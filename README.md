@@ -1,4 +1,8 @@
-Hi, My name is verfired, I'm 16 years old. I have been dealing with Reverse Engine for 2 years.. My Discord: verfiredpriv#2685
+<h2 align="center"i am verfired</h2>
+
+![Profile Views](https://komarev.com/ghpvc/?username=verfired)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/858904514286583808)](https://discord.com/users/858904514286583808)
 
 
 <h3 align="left">Languages and Tools:</h3>
