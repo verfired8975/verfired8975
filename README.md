@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=verfired)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/968218327342276698)](https://discord.com/users/1098295684349833276)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1098295684349833276)](https://discord.com/users/1098295684349833276)
 
 
 <h3 align="left">Languages and Tools:</h3>
