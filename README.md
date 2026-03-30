@@ -34,7 +34,6 @@ Languages:
 
 Focus:
   - Security Research
-  - WAF Bypass
   - Game Hacking
   - Reverse Engineering
 ```
@@ -47,7 +46,7 @@ Focus:
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,vscode&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=docker,git,vscode&theme=dark&perline=3" />
 
 </td></tr>
 </table>
