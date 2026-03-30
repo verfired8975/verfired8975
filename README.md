@@ -57,8 +57,15 @@ Focus:
 
 ### 📌 Featured
 
-| [![casibom-checker](https://github-readme-stats.vercel.app/api/pin/?username=verfired8975&repo=casibom-checker&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e)](https://github.com/verfired8975/casibom-checker) | [![PatternScanner](https://github-readme-stats.vercel.app/api/pin/?username=verfired8975&repo=PatternScanner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e)](https://github.com/verfired8975/PatternScanner) |
-|---|---|
+<a href="https://github.com/verfired8975/casibom-checker">
+<img src="https://img.shields.io/badge/🎰_casibom--checker-Shield_WAF_Bypass-c9d1d9?style=for-the-badge&labelColor=161b22" />
+</a>
+<a href="https://github.com/verfired8975/PatternScanner">
+<img src="https://img.shields.io/badge/🔍_PatternScanner-Rust_Memory_Scanner-c9d1d9?style=for-the-badge&labelColor=161b22" />
+</a>
+<a href="https://github.com/verfired8975/Anti_Debugger">
+<img src="https://img.shields.io/badge/🛡️_Anti__Debugger-Anti_Debug_Tricks-c9d1d9?style=for-the-badge&labelColor=161b22" />
+</a>
 
 </div>
 
