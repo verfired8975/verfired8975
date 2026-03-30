@@ -57,12 +57,8 @@ Focus:
 
 ### 📌 Featured
 
-<a href="https://github.com/verfired8975/casibom-checker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=verfired8975&repo=casibom-checker&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e" />
-</a>
-<a href="https://github.com/verfired8975/PatternScanner">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=verfired8975&repo=PatternScanner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e" />
-</a>
+| [![casibom-checker](https://github-readme-stats.vercel.app/api/pin/?username=verfired8975&repo=casibom-checker&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e)](https://github.com/verfired8975/casibom-checker) | [![PatternScanner](https://github-readme-stats.vercel.app/api/pin/?username=verfired8975&repo=PatternScanner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e)](https://github.com/verfired8975/PatternScanner) |
+|---|---|
 
 </div>
 
@@ -75,20 +71,6 @@ Focus:
 
 </div>
 
----
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=verfired8975&theme=dark&hide_border=true&background=0d1117&ring=161b22&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=verfired8975&theme=github-dark&hide_border=true&bg_color=0d1117&color=8b949e&line=c9d1d9&point=c9d1d9&area=true&area_color=161b22" width="95%" />
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=100&section=footer" width="100%" />
